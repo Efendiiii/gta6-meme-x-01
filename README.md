@@ -1,5 +1,9 @@
 # GTA 6 Meme — make.fun Bounty Entry
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Efendiiii/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Efendiiii/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Entry for the make.fun bounty **gta6-meme-x-01**: post a GTA 6 meme on X ($500).
 Bounty: https://make.fun/bounty/gta6-meme-x-01
 
@@ -17,8 +21,8 @@ already earned real money from bounties while the download crawled along.
   the make.fun ghost beside him holding a phone and a star coin.
   Big text: "13 YEARS LATER…" / "STILL DOWNLOADING".
 - `tweet.txt` — the exact tweet text to post with the image.
-- `POST.json` — the URL of the posted tweet. Placeholder until the tweet is
-  live; the real URL is filled in a separate commit.
+- `POST.json` — the URL of the posted tweet:
+  https://x.com/AzkaEfendi52739/status/2123556305961185293
 - `main.ts` — the bot entrypoint: copies `POST.json` to the output directory.
 
 ## Run locally
@@ -43,3 +47,7 @@ Post `meme.png` as the first image with the text from `tweet.txt`:
 
 Play code: `makefun-skylark-mammoth-freckle`
 Posted from: [@AzkaEfendi52739](https://x.com/AzkaEfendi52739)
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=4fxfm1jz&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
